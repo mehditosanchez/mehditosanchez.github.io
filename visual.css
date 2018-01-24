@@ -1,0 +1,74 @@
+#click{
+font-family: 'Franklin Gothic Medium';
+font-size: 16px;
+color: rgba(245, 243, 243, 0.781);
+}
+
+
+body {
+
+    background-color:white;
+    background-image:url(backgrounds-that-work-well-with-shadygamer-shadygamer-1043x618.jpg);
+    background-attachment: fixed;
+    margin:0;
+    }
+    
+  h1 {
+    color: white;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  h2 {
+    border: 5px solid  rgba(230, 18, 18, 0.842);
+    color: rgba(228, 21, 21, 0.774);
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    padding: 20px 30px;
+    margin: 30px 20px;
+    text-align: center;
+  }
+  
+  h3 {
+    color: red;
+    font-size: 26px;
+    font-weight: 700;
+    padding: 20px 10px;
+    text-align: center
+  }
+
+  h4{color: rgba(245, 243, 243, 0.781);
+    font-size: 26px;
+    font-weight: 700;
+    padding: 20px 10px;
+    text-align: center}
+
+  
+  p {
+    color: rgba(245, 243, 243, 0.781);
+    font-size: 16px;
+    line-height: 48px;
+    margin-top: 60px;
+    padding: 10px 20px;
+    text-align: center
+  }
+
+  #sommaire{color: rgba(245, 243, 243, 0.781);
+    font-size: 30px;
+    line-height: 48px;
+    margin-top: 60px;
+    padding: 10px 40px;
+    text-align: left }
+
+    #saiyan{
+     margin-right:50px;}
+
+     #quotes{color: rgba(245, 243, 243, 0.781);
+        font-size: 30px;
+        line-height: 48px;
+        margin-top: 60px;
+        padding: 10px 40px;
+        text-align: left
+     }
